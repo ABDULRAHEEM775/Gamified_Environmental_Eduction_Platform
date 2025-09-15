@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
         {/* Navbar */}
         <nav className="flex items-center justify-between px-8 py-4 shadow-sm">
           {/* Left: Logo */}
-          <Link href="/" className="flex items-center gap-2">
+          <Link href="./Picsart_25-09-15_18-31-56-499.jpg" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-green-500 rounded-full"></div>
             <span className="font-bold text-xl">Green-vision</span>
           </Link>
