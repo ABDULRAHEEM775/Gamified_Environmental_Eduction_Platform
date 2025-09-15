@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
           {/* Left: Logo */}
           <Link href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-green-500 rounded-full"></div>
-            <span className="font-bold text-xl">Gameified</span>
+            <span className="font-bold text-xl">Green-vision</span>
           </Link>
 
           {/* Right: Language selector */}
