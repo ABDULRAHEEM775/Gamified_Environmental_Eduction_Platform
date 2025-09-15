@@ -50,7 +50,7 @@ export default function ShopPage() {
     <div className="flex min-h-screen">
       {/* ===== Left Sidebar ===== */}
       <aside className="w-56 bg-white  p-4 flex flex-col items-start fixed top-0 left-0 h-screen">
-        <h1 className="text-2xl font-bold text-green-600 mb-6">Gameified</h1>
+        <h1 className="text-2xl font-bold text-green-600 mb-6">Green-vision</h1>
         <nav className="flex flex-col gap-4 w-full">
           <a href="/landing" className="flex items-center gap-2 px-3 py-2 rounded-md text-gray-700 hover:bg-green-50">🏠 Learn</a>
           <a href="/diy" className="flex items-center gap-2 px-3 py-2 rounded-md text-gray-700 hover:bg-green-50">🛠️ DIY</a>
@@ -151,3 +151,4 @@ export default function ShopPage() {
     </div>
   );
 }
+
